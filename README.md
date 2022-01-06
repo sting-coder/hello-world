@@ -1,2 +1,2 @@
 # hello-world
-sup guys how is it goin?
+The first repository on this account.
